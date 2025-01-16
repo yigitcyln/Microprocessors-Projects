@@ -1,0 +1,2 @@
+# Tiva GH6PM ile Seri Port Uygulaması
+ Tiva GH6PM mikroişlemcisi ile C dilinde UART haberleşme protokolü kullanılarak, C# dilinde Sharp Developer stüdyosunda yazılmış olan program sayesinde haberleşen mikroişlemciye 16x2 LCD'nin ilk satırında C# uygulamasından bilgisayardan girilen başlangıç saati ile saat saymakta iken LCD'nin ikinci satırında ise mikroişlemcinin mevcut sıcaklık sensörleri kullanılarak ve bu sensörlerden alınan verilerin ortalaması hesaplanarak ikinci satıra bastırılmıştır.

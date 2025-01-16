@@ -1,0 +1,8 @@
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\obj\Debug\seriporthw.csprojResolveAssemblyReference.cache
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\obj\Debug\seriporthw.MainForm.resources
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\obj\Debug\seriporthw.csproj.GenerateResource.Cache
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\bin\Debug\seriporthw.exe.config
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\bin\Debug\seriporthw.exe
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\bin\Debug\seriporthw.pdb
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\obj\Debug\seriporthw.exe
+C:\Users\abdul\OneDrive\Belgeler\SharpDevelop Projects\seriporthw\seriporthw\obj\Debug\seriporthw.pdb
